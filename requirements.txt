@@ -1,0 +1,8 @@
+requests
+sklearn
+pyyaml
+pandas
+plotly
+seaborn
+matplotlib
+yellowbrick

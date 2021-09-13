@@ -1,6 +1,10 @@
 # API Key
 config.yml
 
+# Files
+*.csv
+*.png
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
