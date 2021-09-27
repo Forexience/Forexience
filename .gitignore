@@ -4,6 +4,7 @@ config.yml
 # Files
 *.csv
 *.png
+*.pdf
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
