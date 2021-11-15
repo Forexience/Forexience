@@ -6,6 +6,7 @@ config.yml
 *.png
 *.pdf
 .DS_Store
+.ipynb_checkpoints
 Icon
 
 # Byte-compiled / optimized / DLL files
@@ -137,3 +138,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+Icon
+Main_Pipeline/Icon
+Scheduling/Icon
+Testing_Pipeline/Icon
+Testing_Pipeline/Back_Test/Icon
+Testing_Pipeline/Back_Test_Validation/Icon
+Main_Pipeline/Icon
