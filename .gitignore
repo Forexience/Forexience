@@ -7,6 +7,7 @@ config.yml
 *.pdf
 .DS_Store
 .ipynb_checkpoints
+Icon?
 Icon
 
 # Byte-compiled / optimized / DLL files
