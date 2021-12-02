@@ -31,3 +31,22 @@ currency:
   pair_1 : EURUSD
   pair_2 : USDCAD
   pair_3 : EURGBP
+
+model :
+  frac: 0.70
+  random_state : 950
+  dt : dt
+  et : et
+  knn : knn
+  rf : rf
+  ada : ada
+  gbc : gbc
+  svm : svm
+  lightgbm : lighgbm
+  lr : lr
+  ridge : ridge
+  lda : lda
+  qda : qda
+  nb : nb
+  lightgbm : lightgbm
+

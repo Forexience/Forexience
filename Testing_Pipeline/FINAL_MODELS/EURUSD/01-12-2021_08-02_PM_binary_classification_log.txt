@@ -1,0 +1,5 @@
+Date: 01-12-2021_08-02_PM
+Currency Pair: EURUSD
+Model: lightgbm
+Frac: 0.7
+Random State: 950
