@@ -1,0 +1,5 @@
+Date: 02-12-2021_11-09_PM
+Currency Pair: USDCAD
+Model: knn
+Frac: 0.8
+Random State: 750
