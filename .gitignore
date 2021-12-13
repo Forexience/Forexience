@@ -1,5 +1,5 @@
 # API Key
-config.yml
+*.yml
 
 # Files
 *.csv
