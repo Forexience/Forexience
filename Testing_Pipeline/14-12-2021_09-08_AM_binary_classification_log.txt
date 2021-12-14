@@ -1,0 +1,5 @@
+Date: 14-12-2021_09-08_AM
+Currency Pair: USDCAD
+Model: gbc
+Frac: 0.7
+Random State: 750

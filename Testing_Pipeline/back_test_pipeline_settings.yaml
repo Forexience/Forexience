@@ -33,7 +33,7 @@ currency:
   pair_3 : EURGBP
 
 model :
-  frac: 0.75
+  frac: 0.70
   random_state : 750
   dt : dt
   et : et
