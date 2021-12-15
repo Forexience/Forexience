@@ -1,0 +1,13 @@
+Date: 14-12-2021_07-08_PM
+Currency Pair: EURUSD
+K_Number: 5
+KNN_Metric: euclidean
+KNN_Algorithm: brute
+Feature: col_1
+Feature: col_2
+Feature: col_3
+Feature: F_SMA_10
+Feature: F_SMA_20
+Volume Size: 5000
+Sample Count: 4000
+Candle Counts: 7
