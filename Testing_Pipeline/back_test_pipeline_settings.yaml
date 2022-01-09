@@ -28,25 +28,26 @@ recommendation :
   candle_count : 7
 
 currency: 
-  pair_1 : EURUSD
-  pair_2 : USDCAD
-  pair_3 : EURGBP
+  pair : USDCAD
 
 model :
   frac: 0.70
-  random_state : 750
-  dt : dt
-  et : et
-  knn : knn
-  rf : rf
-  ada : ada
-  gbc : gbc
-  svm : svm
-  lightgbm : lighgbm
-  lr : lr
-  ridge : ridge
-  lda : lda
-  qda : qda
-  nb : nb
-  lightgbm : lightgbm
+  random_state : 400
+  name: knn
+  
+#All Models
+#  dt : dt
+#  et : et
+#  knn : knn
+#  rf : rf
+#  ada : ada
+#  gbc : gbc
+#  svm : svm
+#  lightgbm : lighgbm
+#  lr : lr
+#  ridge : ridge
+#  lda : lda
+#  qda : qda
+#  nb : nb
+#  lightgbm : lightgbm
 
