@@ -22,13 +22,14 @@ feature :
 
 sample : 
   volume_size : 5000
-  count : 4000
+  count : 8000
 
 recommendation : 
   candle_count : 7
 
 currency: 
   pair : USDCAD
+  instrument: USD_CAD
 
 model :
   frac: 0.70
