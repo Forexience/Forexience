@@ -2,7 +2,6 @@
 *.yml
 
 # Files
-*.csv
 *.png
 *.pdf
 .DS_Store
