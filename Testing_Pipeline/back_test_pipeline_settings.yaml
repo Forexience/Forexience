@@ -28,8 +28,8 @@ recommendation :
   candle_count : 7
 
 currency: 
-  pair : USDCAD
-  instrument: USD_CAD
+  pair : EURGBP
+  instrument: EUR_GBP
 
 model :
   frac: 0.70
