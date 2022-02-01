@@ -21,7 +21,7 @@ feature :
   volume : Volume
 
 sample : 
-  volume_size : 5000
+  volume_size : 3000
   count : 8000
 
 recommendation : 
