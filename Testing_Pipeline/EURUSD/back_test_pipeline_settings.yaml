@@ -21,8 +21,8 @@ feature :
   volume : Volume
 
 sample : 
-  volume_size : 3000
-  count : 8000
+  volume_size : 4000
+  count : 10000
 
 recommendation : 
   candle_count : 7
@@ -32,8 +32,8 @@ currency:
   instrument: EUR_USD
 
 model :
-  frac: 0.70
-  random_state : 705
+  frac: 0.75
+  random_state : 700
   name: knn
   
 #All Models

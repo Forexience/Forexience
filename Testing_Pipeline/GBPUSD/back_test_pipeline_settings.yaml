@@ -1,0 +1,54 @@
+knn : 
+  k_number : 5
+  metric : euclidean
+  algorithm : brute
+  feature_1 : col_1
+  feature_2 : col_2
+  feature_3 : col_3
+  feature_4 : col_4
+  feature_5 : col_5
+  feature_6 : F_SMA_5
+  feature_7 : F_SMA_10
+  feature_8 : F_SMA_20
+  feature_9 : O-H
+  feature_10 : O-L
+  feature_11 : O-C
+  feature_12 : H-L
+  feature_13 : H-C
+  feature_14 : L-C
+
+feature : 
+  volume : Volume
+
+sample : 
+  volume_size : 2500
+  count : 10000
+
+recommendation : 
+  candle_count : 7
+
+currency: 
+  pair : GBPUSD
+  instrument: GBP_USD
+
+model :
+  frac: 0.70
+  random_state : 800
+  name: knn
+  
+#All Models
+#  dt : dt
+#  et : et
+#  knn : knn
+#  rf : rf
+#  ada : ada
+#  gbc : gbc
+#  svm : svm
+#  lightgbm : lighgbm
+#  lr : lr
+#  ridge : ridge
+#  lda : lda
+#  qda : qda
+#  nb : nb
+#  lightgbm : lightgbm
+
