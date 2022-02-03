@@ -1,5 +1,0 @@
-Date: 02-02-2022_03-42_AM
-Currency Pair: EUR_USD
-Model: knn
-Frac: 0.75
-Random State: 700

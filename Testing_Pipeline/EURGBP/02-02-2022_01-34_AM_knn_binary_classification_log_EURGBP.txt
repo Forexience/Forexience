@@ -1,5 +1,0 @@
-Date: 02-02-2022_01-34_AM
-Currency Pair: EURGBP
-Model: knn
-Frac: 0.7
-Random State: 950

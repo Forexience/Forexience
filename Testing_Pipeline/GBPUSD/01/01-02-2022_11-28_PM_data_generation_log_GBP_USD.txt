@@ -1,0 +1,13 @@
+Date: 01-02-2022_11-28_PM
+Currency Pair: GBP_USD
+K_Number: 5
+KNN_Metric: euclidean
+KNN_Algorithm: brute
+Feature: col_1
+Feature: col_2
+Feature: col_3
+Feature: F_SMA_10
+Feature: F_SMA_20
+Volume Size: 2500
+Sample Count: 10000
+Candle Counts: 7
