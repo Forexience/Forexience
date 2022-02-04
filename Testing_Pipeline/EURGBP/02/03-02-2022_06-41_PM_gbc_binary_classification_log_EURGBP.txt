@@ -1,0 +1,5 @@
+Date: 03-02-2022_06-41_PM
+Currency Pair: EURGBP
+Model: gbc
+Frac: 0.7
+Random State: 4950

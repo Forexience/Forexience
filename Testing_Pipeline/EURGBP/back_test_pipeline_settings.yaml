@@ -33,8 +33,8 @@ currency:
 
 model :
   frac: 0.70
-  random_state : 950
-  name: knn
+  random_state : 4950
+  name: gbc
   
 #All Models
 #  dt : dt

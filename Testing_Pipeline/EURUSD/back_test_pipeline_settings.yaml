@@ -32,9 +32,9 @@ currency:
   instrument: EUR_USD
 
 model :
-  frac: 0.75
-  random_state : 700
-  name: knn
+  frac: 0.70
+  random_state : 900
+  name: lightgbm
   
 #All Models
 #  dt : dt
