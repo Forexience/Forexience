@@ -1,5 +1,0 @@
-Date: 03-02-2022_08-05_PM
-Currency Pair: GBPUSD
-Model: lightgbm
-Frac: 0.7
-Random State: 700

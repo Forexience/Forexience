@@ -21,8 +21,8 @@ feature :
   volume : Volume
 
 sample : 
-  volume_size : 4000
-  count : 10000
+  volume_size : 5500
+  count : 4000
 
 recommendation : 
   candle_count : 7
@@ -33,8 +33,8 @@ currency:
 
 model :
   frac: 0.70
-  random_state : 900
-  name: lightgbm
+  random_state : 700
+  name: gbc
   
 #All Models
 #  dt : dt
