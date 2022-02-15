@@ -21,15 +21,15 @@ feature :
   volume : Volume
 
 sample : 
-  volume_size : 5000
-  count : 8000
+  volume_size : 5500
+  count : 4000
 
 recommendation : 
   candle_count : 7
 
 currency: 
-  pair : EURGBP
-  instrument: EUR_GBP
+  pair : EURUSD
+  instrument: EUR_USD
 
 model :
   frac: 0.70
