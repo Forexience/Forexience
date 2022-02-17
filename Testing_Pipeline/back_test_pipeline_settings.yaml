@@ -34,7 +34,7 @@ currency:
 model :
   frac: 0.70
   random_state : 705
-  name: knn
+  name: lightgbm
   
 #All Models
 #  dt : dt
