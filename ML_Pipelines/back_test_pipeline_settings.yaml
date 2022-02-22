@@ -16,6 +16,7 @@ knn :
   feature_12 : H-L
   feature_13 : H-C
   feature_14 : L-C
+  feature_15 : Trend
 
 feature : 
   volume : Volume
@@ -34,7 +35,7 @@ currency:
 model :
   frac: 0.70
   random_state : 700
-  name: lightgbm
+  name: dt
   
 #All Models
 #  dt : dt
