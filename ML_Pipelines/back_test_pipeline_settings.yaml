@@ -23,7 +23,7 @@ feature :
 
 sample : 
   volume_size : 5500
-  count : 300 
+  count : 2000
 
 recommendation : 
   candle_count : 7
