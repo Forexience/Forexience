@@ -22,15 +22,15 @@ feature :
   volume : Volume
 
 sample : 
-  volume_size : 5500
-  count : 2000
+  volume_size : 1100
+  count : 5000
 
 recommendation : 
   candle_count : 7
 
 currency: 
-  pair : EURUSD
-  instrument: EUR_USD
+  pair : USDCHF
+  instrument: USD_CHF
 
 model :
   frac: 0.70
