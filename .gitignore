@@ -1,7 +1,6 @@
 # API Key
 *.yml
 *.csv
-*.txt
 
 # Files
 *.png

@@ -1,0 +1,11 @@
+Date: 11-03-2022_06-14_AM
+Currency Pair: USDCHF
+Model: lightgbm
+Frac: 0.7
+Random State: 6
+Model Input: Index(['Current_Market', 'Rec1_Close_Score', 'Rec1_High_Score',
+       'Rec1_Low_Score', 'Rec2_Close_Score', 'Rec2_High_Score',
+       'Rec2_Low_Score', 'Rec3_Close_Score', 'Rec3_High_Score',
+       'Rec3_Low_Score', 'Rec4_Close_Score', 'Rec4_High_Score',
+       'Rec4_Low_Score'],
+      dtype='object')
