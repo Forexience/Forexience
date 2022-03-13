@@ -1,0 +1,13 @@
+Date: 13-03-2022_06-56_PM
+Currency Pair: USDCHF
+K_Number: 5
+KNN_Metric: euclidean
+KNN_Algorithm: brute
+Feature: col_1
+Feature: col_2
+Feature: col_3
+Feature: F_SMA_10
+Feature: F_SMA_20
+Volume Size: 1100
+Sample Count: 5000
+Candle Counts: 7

@@ -1,4 +1,4 @@
-Date: 11-03-2022_06-14_AM
+Date: 13-03-2022_04-56_PM
 Currency Pair: USDCHF
 Model: lightgbm
 Frac: 0.7
@@ -9,3 +9,5 @@ Model Input: Index(['Current_Market', 'Rec1_Close_Score', 'Rec1_High_Score',
        'Rec3_Low_Score', 'Rec4_Close_Score', 'Rec4_High_Score',
        'Rec4_Low_Score'],
       dtype='object')
+Training Data Size: (2627, 13)
+Test Data Size: (1126, 13)
