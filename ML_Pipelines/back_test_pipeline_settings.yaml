@@ -22,19 +22,19 @@ feature :
   volume : Volume
 
 sample : 
-  volume_size : 2800
+  volume_size : 1100
   count : 5000
 
 recommendation : 
-  candle_count : 7
+  candle_count : 2
 
 currency: 
-  pair : EURGBP
-  instrument: EUR_GBP
+  pair : USDCHF
+  instrument: USD_CHF
 
 model :
   frac: 0.70
-  random_state : 45
+  random_state : 15
   name: knn
   
 #All Models
