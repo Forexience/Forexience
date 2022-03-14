@@ -22,11 +22,11 @@ feature :
   volume : Volume
 
 sample : 
-  volume_size : 1100
+  volume_size : 1700
   count : 5000
 
 recommendation : 
-  candle_count : 2
+  candle_count : 7
 
 currency: 
   pair : USDCHF

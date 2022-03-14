@@ -1,0 +1,10 @@
+Date: 14-03-2022_04-41_AM
+Currency Pair: USDCHF
+Model: knn
+Frac: 0.7
+Random State: 15
+Model Input: Index(['Current_Market', 'Rec1_Close_Score', 'Rec2_Close_Score',
+       'Rec3_Close_Score', 'Rec4_Close_Score'],
+      dtype='object')
+Training Data Size: (2645, 5)
+Test Data Size: (1134, 5)
